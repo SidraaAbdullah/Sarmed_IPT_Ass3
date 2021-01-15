@@ -23,5 +23,10 @@ namespace IPT.Hotel.Data.Helpers
             db.Dispose();
 
         }
+        public List<Customer> GetAllCustomer()
+        {
+            var db = new HOTELEntities1();
+            return db.Customers.ToList();
+        }
     }
 }

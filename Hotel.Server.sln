@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT.Hotel.Data", "IPT.Hotel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT.Hotel.Test", "IPT.Hotel.Test\IPT.Hotel.Test.csproj", "{0ABD7731-913D-45B6-A2EE-88A149BC3C8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT.ClientAndServer.Data", "IPT.ClientAndServer.Data\IPT.ClientAndServer.Data.csproj", "{7ACFEF95-A53E-4F39-ABB1-DAF324D2990B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0ABD7731-913D-45B6-A2EE-88A149BC3C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ABD7731-913D-45B6-A2EE-88A149BC3C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ABD7731-913D-45B6-A2EE-88A149BC3C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACFEF95-A53E-4F39-ABB1-DAF324D2990B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACFEF95-A53E-4F39-ABB1-DAF324D2990B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACFEF95-A53E-4F39-ABB1-DAF324D2990B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACFEF95-A53E-4F39-ABB1-DAF324D2990B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
